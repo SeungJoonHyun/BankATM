@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.17
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankATM", "BankATM\BankATM.csproj", "{55D1B0A1-EFEA-49F2-8FCB-E0459981ACFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55D1B0A1-EFEA-49F2-8FCB-E0459981ACFD}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{55D1B0A1-EFEA-49F2-8FCB-E0459981ACFD}.Debug|anycpu.Build.0 = Debug|anycpu
+		{55D1B0A1-EFEA-49F2-8FCB-E0459981ACFD}.Release|anycpu.ActiveCfg = Release|anycpu
+		{55D1B0A1-EFEA-49F2-8FCB-E0459981ACFD}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B5ECF54-00CD-4401-9FC7-CA46B6F64A46}
+	EndGlobalSection
+EndGlobal
